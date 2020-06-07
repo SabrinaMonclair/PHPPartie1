@@ -18,7 +18,7 @@
   $firstname = "Sabrina";
   $age = 33;
 
-  echo "Bonjour" . $lastname . $firstname . ",tu as" . $age . "ans";
+  echo "Bonjour " .$lastname. " " .$firstname. ", tu as " .$age. " ans.";
 
   ?>
 </body>
